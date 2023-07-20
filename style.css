@@ -166,7 +166,7 @@ section {
 
 /* First Section */
 .first {
-  background: url(../images/bg.jpg) no-repeat center center fixed;
+  background: url("https://cdn.jsdelivr.net/gh/bidkoo/images@main/bg.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 .first p {
