@@ -47,15 +47,7 @@ code {
   white-space: nowrap;
 }
 
-a {
-  color: #fff;
-  text-decoration: none;
-  border-bottom: dotted 2px #fff;
-}
-a:hover, a:active, a:focus {
-  color: #fff;
-  border-bottom: solid 2px #fff;
-}
+
 
 /* Sections
 **********************************************
