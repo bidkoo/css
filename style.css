@@ -3,11 +3,7 @@ aside,
 details,
 figcaption,
 figure,
-footer,
-header,
 hgroup,
-main,
-nav,
 section,
 summary {
   display: block;
@@ -20,20 +16,7 @@ summary {
   box-sizing: border-box;
 }
 
-html {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-}
 
-body {
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 24px;
-  font-weight: 400;
-  line-height: 1.5;
-  color: #fff;
-  margin: 0;
-  padding: 0;
-}
 @media (max-width: 1024px) {
   body {
     font-size: 20px;
@@ -330,16 +313,6 @@ img {
   clear: both;
 }
 
-/* Footer 
-********************************************
-*/
-footer {
-  clear: both;
-  background: #2b4f71;
-  margin: 0;
-  padding: 5%;
-  text-align: center;
-}
 
 /* Smooth Scrolling Back to Top
 ********************************************
